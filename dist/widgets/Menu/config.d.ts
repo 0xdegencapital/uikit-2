@@ -3,7 +3,6 @@ export declare const links: ({
     icon: string;
     href: string;
     items?: undefined;
-    external?: undefined;
 } | {
     label: string;
     icon: string;
@@ -13,14 +12,13 @@ export declare const links: ({
         external: boolean;
     }[];
     href?: undefined;
-    external?: undefined;
-} | {
+})[];
+export declare const addictionals: {
     label: string;
     icon: string;
     href: string;
     external: boolean;
-    items?: undefined;
-})[];
+}[];
 export declare const socials: ({
     label: string;
     icon: string;

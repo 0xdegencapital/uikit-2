@@ -1,8 +1,9 @@
 import React from "react";
-import { PanelProps, PushedProps } from "../types";
+import { MenuEntry, PanelProps, PushedProps } from "../types";
 interface Props extends PanelProps, PushedProps {
     showMenu: boolean;
     isMobile: boolean;
+    addictionals: MenuEntry[];
 }
 declare const Panel: React.FC<Props>;
 export default Panel;

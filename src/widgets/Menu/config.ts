@@ -21,19 +21,19 @@ export const links = [
     ],
   },
   // {
-    // label: "Farms",
-    // icon: "FarmIcon",
-    // href: "/farms",
+  // label: "Farms",
+  // icon: "FarmIcon",
+  // href: "/farms",
   // },
   // {
-    // label: "Caves",
-    // icon: "CaveIcon",
-    // href: "/caves",
+  // label: "Caves",
+  // icon: "CaveIcon",
+  // href: "/caves",
   // },
   // {
-    // label: "Blizzard",
-    // icon: "PoolIcon",
-    // href: "/pools",
+  // label: "Blizzard",
+  // icon: "PoolIcon",
+  // href: "/pools",
   // },
   {
     label: "Info",
@@ -96,14 +96,14 @@ export const socials = [
     href: "https://twitter.com/pixiuswaptoken",
   },
   // {
-    // label: "Instagram",
-    // icon: "InstagramIcon",
-    // href: "https://bit.ly/3tXAGwP",
+  // label: "Instagram",
+  // icon: "InstagramIcon",
+  // href: "https://bit.ly/3tXAGwP",
   // },
   // {
-    // label: "Facebook",
-    // icon: "FacebookIcon",
-    // href: "https://bit.ly/2PwA0Q4",
+  // label: "Facebook",
+  // icon: "FacebookIcon",
+  // href: "https://bit.ly/2PwA0Q4",
   // },
 ];
 
