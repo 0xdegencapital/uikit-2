@@ -1,6 +1,5 @@
 {
-  "name": "@fantompaw/uikit",
-  "private": true,
+  "name": "fantompawv1/uikit",
   "version": "0.0.1",
   "description": "Set of UI components for Fantom Paw projects",
   "main": "dist/index.cjs.js",
