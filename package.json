@@ -1,7 +1,7 @@
 {
-  "name": "@pixiuswapp/uikit-2",
-  "version": "0.13.27",
-  "description": "Set of UI components for PixiuSwap projects",
+  "name": "@fantompaw/uikit",
+  "version": "0.0.1",
+  "description": "Set of UI components for Fantom Paw projects",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "types": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pixiuswap/pixiu-uikit-2.git"
+    "url": "git+https://github.com/zerorekt/uikit-2.git"
   },
   "license": "MIT",
   "scripts": {
@@ -86,8 +86,8 @@
     "styled-system": "^5.1.5"
   },
   "bugs": {
-    "url": "https://github.com/pixiuswap/pixiu-uikit-2/issues"
+    "url": "https://github.com/zerorekt/uikit-2/issues"
   },
-  "homepage": "https://github.com/pixiuswap/pixiu-uikit-2#readme",
-  "author": "pixiuswap"
+  "homepage": "https://github.com/zerorekt/uikit-2#readme",
+  "author": "dogetoshi"
 }
